@@ -12,6 +12,7 @@ I look forward to learn about new technologies and develop my knowledge through 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -21,9 +22,8 @@ I look forward to learn about new technologies and develop my knowledge through 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Misc%3A)](https://git.io/typing-svg)
-
+<details>
+  <summary>Misc</summary>
 <div align="center">
 
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -35,4 +35,4 @@ I look forward to learn about new technologies and develop my knowledge through 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wyattros&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </p>
-
+</details>

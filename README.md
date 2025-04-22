@@ -35,6 +35,6 @@ I look forward to learn about new technologies and develop my knowledge through 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wyattros.github.io/wyattros.github.io/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://wyattros.github.io.github.io/wyattros.github.io/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://wyattros.github.io.github.io/wyattros.github.io/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://wyattros.github.io.github.io/wyattros.github.io/github-snake-dark.svg" />
 </picture>
 

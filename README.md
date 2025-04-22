@@ -5,6 +5,8 @@ Hello my name is Wyatt Rossi!
 I am a french student at EPITA Lyon currently studying computer science engineering.
 
 I look forward to learn about new technologies and develop my knowledge through new projects.
+### Current Project:
+- Gridy, a chess inspired video game.
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Skills+and+Tools%3A)](https://git.io/typing-svg)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -19,10 +21,8 @@ I look forward to learn about new technologies and develop my knowledge through 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Current+Projects%3A+)](https://git.io/typing-svg)
-- Gridy, a chess inspired video game.
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Stats%3A+)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Misc%3A)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -31,3 +31,8 @@ I look forward to learn about new technologies and develop my knowledge through 
   </a>
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wyattros&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+</p>
+

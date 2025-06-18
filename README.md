@@ -5,8 +5,9 @@ Hello my name is Wyatt Rossi!
 I am a french student at EPITA Lyon currently studying computer science engineering.
 
 I look forward to learn about new technologies and develop my knowledge through new projects.
-### Current Project:
+### Current Projects:
 - Gridy, a chess inspired video game.
+- Typesh!, an audio visualizer made in C using SDL and GTK.
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Skills+and+Tools%3A)](https://git.io/typing-svg)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)

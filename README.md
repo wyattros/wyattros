@@ -32,8 +32,3 @@ I look forward to learn about new technologies and develop my knowledge through 
   </a>
 
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wyattros&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-</p>
-</details>

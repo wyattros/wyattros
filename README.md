@@ -7,17 +7,6 @@ I am a french student at EPITA Lyon currently studying computer science engineer
 I look forward to learn about new technologies and develop my knowledge through new projects.
 
 I love C.
-
-<details>
-  <summary>Misc</summary>
-
-  <div align="center">
-
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z9h54o61uvpu3juaewgc7i75j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-  </a>
-
-</div>
   
 <!--# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Skills+and+Tools%3A)](https://git.io/typing-svg)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
